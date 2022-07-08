@@ -1,0 +1,3 @@
+[submodule "SGA"]
+	path = SGA
+	url = https://github.com/ModernMAK/Relic-Tool-SGA
