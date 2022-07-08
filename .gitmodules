@@ -4,3 +4,6 @@
 [submodule "Chunky"]
 	path = Chunky
 	url = https://github.com/ModernMAK/Relic-Tool-Chunky
+[submodule "UCS"]
+	path = UCS
+	url = https://github.com/ModernMAK/Relic-Tool-UCS
