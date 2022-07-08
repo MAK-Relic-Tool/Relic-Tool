@@ -1,3 +1,6 @@
 [submodule "SGA"]
 	path = SGA
 	url = https://github.com/ModernMAK/Relic-Tool-SGA
+[submodule "Chunky"]
+	path = Chunky
+	url = https://github.com/ModernMAK/Relic-Tool-Chunky
