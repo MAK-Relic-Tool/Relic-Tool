@@ -7,3 +7,6 @@
 [submodule "UCS"]
 	path = UCS
 	url = https://github.com/ModernMAK/Relic-Tool-UCS
+[submodule "Core"]
+	path = Core
+	url = https://github.com/ModernMAK/Relic-Tool-Core
