@@ -12,7 +12,7 @@ A library which allows the reading/writing of Relic's proprietary file formats; 
 ## Installation (Pip)
 ### Installing from PyPI (Recommended)
 ```
-pip install relic-tool-chunky
+pip install relic-tool
 ```
 ### Installing from GitHub
 For more information, see [pip VCS support](https://pip.pypa.io/en/stable/topics/vcs-support/#git)
