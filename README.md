@@ -1,7 +1,7 @@
 # Relic Tool
-[![PyPI](https://img.shields.io/pypi/v/relic-tool-chunky)](https://pypi.org/project/Relic-Tool/)
-[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/relic-tool-chunky)](https://www.python.org/downloads/)
-[![PyPI - License](https://img.shields.io/pypi/l/relic-tool-chunky)](https://github.com/MAK-Relic-Tool/Relic-Tool/blob/main/LICENSE.txt)
+[![PyPI](https://img.shields.io/pypi/v/relic-tool)](https://pypi.org/project/Relic-Tool/)
+[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/relic-tool)](https://www.python.org/downloads/)
+[![PyPI - License](https://img.shields.io/pypi/l/relic-tool)](https://github.com/MAK-Relic-Tool/Relic-Tool/blob/main/LICENSE.txt)
 [![Checked with mypy](http://www.mypy-lang.org/static/mypy_badge.svg)](http://mypy-lang.org/)
 [![Build Check](https://github.com/MAK-Relic-Tool/Relic-Tool/actions/workflows/build-check.yml/badge.svg)](https://github.com/MAK-Relic-Tool/Relic-Tool/actions/workflows/build-check.yml)
 #### Disclaimer
